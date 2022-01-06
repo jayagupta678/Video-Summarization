@@ -6,7 +6,6 @@
 There has been a noticeable uptick in video usage over the past three years. A few stats evidencing this include that video consumption on mobile devices rises a whopping 100 percent each year. In addition, 78 percent of people report watching videos online each week while 55 percent of those watch on a daily basis. More than half (54%) demand more video content on top of what they already consume. Viewers claim they retain 95 percent of a message when obtained via video and a significant 92 percent of mobile users report sharing videos with others. The vast majority of businesses are shifting their strategies accordingly with 81 percent incorporating the tactic into the plans–a 63 percent increase year-over-year.
 
 ### Short-form video
-
 Short-form videos continue to trend in 2021. The growth of Instagram reels and TikTok is living proof of that. Although these clips last about 15 seconds, they let brands communicate with the audience in a very exciting way thanks to their relevance and ambiance. Many of these videos go viral thanks to the unusual approach of adding memorable music that underlines the personality of a brand.
 
 <b> How video data is increasing day by day..reports till Jan 2022
@@ -18,5 +17,19 @@ Short-form videos continue to trend in 2021. The growth of Instagram reels and T
   <li>Wyzowl The State of Video Marketing 2021 report : https://wyzowl.s3.eu-west-2.amazonaws.com/pdfs/Wyzowl-Video-Survey-2021.pdf </li>
   <li><b>Thedrum -The state of video marketing in 2021: https://www.thedrum.com/profile/depositphotos/news/the-state-of-video-marketing-in-2021-infographic</li>
   <li>Social Media Week 2020 Video Marketing and Statistics: What Brands Need to Know : https://socialmediaweek.org/blog/2019/10/2020-video-marketing-and-statistics-what-brands-need-to-know/</li>
+  <li>video marketing statistics 2022: https://invideo.io/blog/video-marketing-statistics/</li>
+  <li>video consumption statistics 2021: https://techjury.net/blog/video-consumption-statistics/#gref</li>
 </ol>
+  
+### Video Summarization Advantages
+  
+<p>Video summarization is a process that facilitates fast browsing among large video collections. It also allows more efficient content indexing. Video summarization refers to creating a summary of a video that addresses three main points. (1) The video summary should contain scenes and events not only as short as possible from the video but also the most important one. For example, in a soccer game, the summary must contain goals, fouls, shot boundaries, goal attempt, and some other important scenes. (2) The video summary should maintain a continuous connection amongst scenes. It means that the video summary should not contain video segments connected in a blind way. (3) The summarized video should not contain any redundancy. That is, the video summary should have a free repetition that is verydifficult to achieve. It is necessary to detect various events in the game to generate a summary(doi: 10.14569/IJACSA.2015.061133)<sup>1</sup></p> .
+  
+  
+  
+  
+  
+  ### References
+  1. Khan, Y. S., & Pawar, S. (2015). Video summarization: survey on event detection and summarization in soccer videos. International Journal of Advanced Computer Science and Applications, 6(11), 256-259.
 
+ 
