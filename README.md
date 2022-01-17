@@ -23,7 +23,27 @@ Short-form videos continue to trend in 2021. The growth of Instagram reels and T
   
 ### Video Summarization Advantages
   
-<p>Video summarization is a process that facilitates fast browsing among large video collections. It also allows more efficient content indexing. Video summarization refers to creating a summary of a video that addresses three main points. (1) The video summary should contain scenes and events not only as short as possible from the video but also the most important one. For example, in a soccer game, the summary must contain goals, fouls, shot boundaries, goal attempt, and some other important scenes. (2) The video summary should maintain a continuous connection amongst scenes. It means that the video summary should not contain video segments connected in a blind way. (3) The summarized video should not contain any redundancy. That is, the video summary should have a free repetition that is verydifficult to achieve. It is necessary to detect various events in the game to generate a summary(doi: 10.14569/IJACSA.2015.061133)<sup>1</sup></p> .
+Video summarization is a process that facilitates fast browsing among large video collections. It also allows more efficient content indexing. Video summarization refers to creating a summary of a video that addresses three main points. (1) The video summary should contain scenes and events not only as short as possible from the video but also the most important one. For example, in a soccer game, the summary must contain goals, fouls, shot boundaries, goal attempt, and some other important scenes. (2) The video summary should maintain a continuous connection amongst scenes. It means that the video summary should not contain video segments connected in a blind way. (3) The summarized video should not contain any redundancy. That is, the video summary should have a free repetition that is verydifficult to achieve. It is necessary to detect various events in the game to generate a summary(doi: 10.14569/IJACSA.2015.061133)<sup>1</sup>.
+### Similarity Measures
+  <ol>
+    <li>5 Similarity Measure https://dataaspirant.com/five-most-popular-similarity-measures-implementation-in-python/ </li>
+    <li></li>
+    <li></li>
+    <li></li>
+  </ol>
+### Image Similarity
+  <ol>
+    <li>OpenCv Histogram https://docs.opencv.org/3.4/d8/dc8/tutorial_histogram_comparison.html</li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    
+  </ol>
   
   
   
