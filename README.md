@@ -27,16 +27,16 @@ Video summarization is a process that facilitates fast browsing among large vide
 ### Similarity Measures
   <ol>
     <li>5 Similarity Measure https://dataaspirant.com/five-most-popular-similarity-measures-implementation-in-python/ </li>
-    <li></li>
+    <li>other Similarity formulas: https://www.researchgate.net/figure/The-Six-Similarity-Metrics-Used-in-This-Study-for-PSSM-Column-Similarity-and-Motif_fig5_6416709 </li>
     <li></li>
     <li></li>
   </ol>
 ### Image Similarity
   <ol>
     <li>OpenCv Histogram https://docs.opencv.org/3.4/d8/dc8/tutorial_histogram_comparison.html</li>
-    <li></li>
-    <li></li>
-    <li></li>
+    <li>Perceptual Image Similarity 2019 https://github.com/oke-aditya/image_similarity</li>
+    <li>Many Similariy Measures https://programmersought.com/article/95107003012/</li>
+    <li>Perceptual Similarity Metric https://github.com/richzhang/PerceptualSimilarity</li>
     <li></li>
     <li></li>
     <li></li>
