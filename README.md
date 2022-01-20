@@ -8,7 +8,7 @@ There has been a noticeable uptick in video usage over the past three years. A f
 ### Short-form video
 Short-form videos continue to trend in 2021. The growth of Instagram reels and TikTok is living proof of that. Although these clips last about 15 seconds, they let brands communicate with the audience in a very exciting way thanks to their relevance and ambiance. Many of these videos go viral thanks to the unusual approach of adding memorable music that underlines the personality of a brand.
 
-<b> How video data is increasing day by day..reports till Jan 2022
+<b> How video data is increasing day by day..reports till Jan 2022</b>
 <ol>
   <li>statista 2021 https://www.statista.com/statistics/1101966/video-platforms-marketing-worldwide/ </li>
   <li>Wistia 2021 state of video report https://assets.ctfassets.net/j7pfe8y48ry3/47ztlqdwdvMaBcfUEyHy9G/bdbd0de1e74839bf6382aecbf6d09805/Wistia_2021-State-of-Video-Report.pdf       </li>
@@ -42,9 +42,17 @@ Video summarization is a process that facilitates fast browsing among large vide
     <li></li>
     <li></li>
     <li></li>
-    
+     
   </ol>
-  
+  ### Perceptual Loss
+  <ol>
+    <li>opencv perceptual loss https://www.kaggle.com/bigironsphere/loss-function-library-keras-pytorch</li>  
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+  </ol>
   
   
   
