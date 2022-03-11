@@ -54,7 +54,14 @@ Video summarization is a process that facilitates fast browsing among large vide
     <li></li>
     <li></li>
   </ol>
-  
+  ### use ResNet50, 34, VGG 16, 19 for feature extraction instead of GoogleNet features
+   <ol>
+    <li>understanding of h5 file for complete dataset for creating our own. refer create_dataset.py</li>
+    <li>extract resnet50 features and replace feature group in h5 file. to extract every layer features of resnet50 using pytorch refer link: https://debuggercafe.com/visualizing-filters-and-feature-maps-in-convolutional-neural-networks-using-pytorch/</li>
+    <li>optionally visualize every layer images using above link.</li>
+    <li>reshape every dimention of selected frame to 1024 for standard machine summary given in summme dataset for extracted features using Spatial pyramid pooling.</li>
+    <li>create your own file for summme dataset using Resnet50 feature vectors.</li>
+  </ol>
   
   
   
